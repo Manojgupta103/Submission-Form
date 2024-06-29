@@ -20,6 +20,12 @@ h1 {
   color: #327c35;
 }
 
+h2 {
+  font-size: x-large;
+  text-align: center;
+  color: #327c35;
+}
+ 
 fieldset {
   border: none;
 }
